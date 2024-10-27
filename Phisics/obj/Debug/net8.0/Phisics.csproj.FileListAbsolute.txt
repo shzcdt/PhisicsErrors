@@ -1,0 +1,14 @@
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\bin\Debug\net8.0\Phisics.exe
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\bin\Debug\net8.0\Phisics.deps.json
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\bin\Debug\net8.0\Phisics.runtimeconfig.json
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\bin\Debug\net8.0\Phisics.dll
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\bin\Debug\net8.0\Phisics.pdb
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.AssemblyInfoInputs.cache
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.AssemblyInfo.cs
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.csproj.CoreCompileInputs.cache
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.dll
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\refint\Phisics.dll
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.pdb
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\Phisics.genruntimeconfig.cache
+C:\Users\Shzcdt\RiderProjects\Phisics\Phisics\obj\Debug\net8.0\ref\Phisics.dll
